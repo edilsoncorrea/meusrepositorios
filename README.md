@@ -12,7 +12,7 @@
 
 [Tutorial sobre como instalar o Octoprint no Raspberry](https://github.com/edilsoncorrea/octoprintraspberry)
 
-[Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant[(https://github.com/edilsoncorrea/upsraspberryhomeassistant)
+[Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
 
 
 ### Concluir a documentação
