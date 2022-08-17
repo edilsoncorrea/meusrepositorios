@@ -24,7 +24,7 @@
 ## Forks de Outros Projetos
 [Formaware Marlin para Impressora 3D](https://github.com/edilsoncorrea/Marlin)
 
-### Não é possível realizar um Fork a partir desse, porque já tenho um Fork do Marlin
+### Fork do Marlin mvCNC-Modern-Vintage-CNC-Firmware. Não é possível realizar um Fork a partir desse, porque já tenho um Fork do Marlin
 [Fork do Fork para que eu possa versionar minhas alterações](https://github.com/edilsondsnerp/mvCNC-Modern-Vintage-CNC-Firmware.git)
 
 [Fork criado a partir do Marlin para CNCs](https://github.com/topics/mvcnc)
