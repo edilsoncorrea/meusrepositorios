@@ -14,6 +14,8 @@
 
 [Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
 
+[Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
+
 
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
