@@ -32,7 +32,7 @@
 [Fork criado a partir do Marlin para CNCs](https://github.com/topics/mvcnc)
 
 [Fork para instalar no Cncjs no Raspbian](https://github.com/edilsoncorrea/cncjs-pi-raspbian)
-
+[Fork do CNCjs para rodar com Marlin](https://github.com/Domush/CNCjs-for-mvCNC-Marlin)
 
 
 ## Projetos Pessoais
