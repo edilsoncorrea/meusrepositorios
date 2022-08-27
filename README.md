@@ -24,7 +24,7 @@
 
 
 ## Forks de Outros Projetos
-[Formaware Marlin para Impressora 3D](https://github.com/edilsoncorrea/Marlin)
+[Firmaware Marlin para Impressora 3D](https://github.com/edilsoncorrea/Marlin)
 
 [Post Processing para Fusion 360](https://github.com/edilsoncorrea/mpcnc_post_processor)
 
