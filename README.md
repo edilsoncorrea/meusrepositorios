@@ -18,6 +18,7 @@
 
 [Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
 
+[Dongle EDUP 650 Nano](https://github.com/morrownr/8821cu-20210118)
 
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
