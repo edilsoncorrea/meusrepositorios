@@ -8,6 +8,8 @@
 
 [Documentações sobre o Shield Ramps 1.6 Rearap e congigurações gerais usando Marlin 1.1.9](https://github.com/edilsoncorrea/ramps16reprap)
 
+[Documentações sobre o Shield Ramps 1.6 Rearap com TB6600](https://wiki.opensourceecology.org/wiki/Wiring_TB6600_with_RAMPS)
+
 [Tutorial sobre como instalar o CNCJS no Raspberry](https://github.com/edilsoncorrea/cncjsraspberry)
 
 [Home Assistant Supervised Instalação no Debian Linux](https://github.com/edilsoncorrea/homeassistantsupervised)
