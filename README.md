@@ -48,6 +48,8 @@ Fiz o fork para minha segunda conta no Github [edilsondsnerp](https://github.com
 
 [Fork do CNCjs para rodar com Marlin](https://github.com/Domush/CNCjs-for-mvCNC-Marlin)
 
+[Fork do projeto de Esphome para a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/esphome-atorch-dl24)
+
 
 ## Projetos Pessoais
 
