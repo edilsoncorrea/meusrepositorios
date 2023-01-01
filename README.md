@@ -24,6 +24,8 @@
 
 [Vários tutoriais sobre recuros do Fusion 360](https://github.com/edilsoncorrea/fusion360tutoriais)
 
+[Documentação sobre a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p)
+
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
