@@ -26,6 +26,8 @@
 
 [Documentação sobre a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p)
 
+[Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
+
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
