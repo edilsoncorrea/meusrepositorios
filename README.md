@@ -28,6 +28,8 @@
 
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
 
+[Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
+
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
