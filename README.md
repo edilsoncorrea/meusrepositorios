@@ -30,6 +30,8 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
 
+[Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
+
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
