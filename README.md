@@ -32,6 +32,8 @@
 
 [Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
 
+[Video mostrando detalhadamente o que está nesse manual acima](https://www.youtube.com/watch?v=NBcCFYZhU_0)
+
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
