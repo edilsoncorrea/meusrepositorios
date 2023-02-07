@@ -37,7 +37,7 @@
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
 
-[Tutorial para configurações no Marlin para usar como CNC e Lase](https://github.com/edilsoncorrea/marlincnc)
+[Tutorial para configurações no Marlin para usar como CNC e Laser](https://github.com/edilsoncorrea/marlincnc)
 
 [Como instalar o Raspbian no Raspberry - Repositório criado - Começar a documentar](https://github.com/edilsoncorrea/instalarraspbian)
 
