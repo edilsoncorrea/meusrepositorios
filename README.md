@@ -30,6 +30,8 @@
 
 [Documentações e manuais sobre a montagem do drone Lazarus](https://github.com/edilsoncorrea/dronelazarus)
 
+[Documentações e manuais sobre a montagem do drone de 3 polegadas](https://github.com/edilsoncorrea/drone3inch)
+
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
 
 [Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
