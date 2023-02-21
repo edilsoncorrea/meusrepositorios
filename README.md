@@ -38,7 +38,7 @@
 
 [Documentações e manuais sobre a montagem do drone de 3 polegadas](https://github.com/edilsoncorrea/drone3inch)
 
-[Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
+[Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
 
 ### Concluir a documentação
