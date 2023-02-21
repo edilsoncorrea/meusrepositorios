@@ -26,6 +26,11 @@
 
 [Documentação sobre a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p)
 
+[Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
+
+[Video mostrando detalhadamente o que está nesse manual acima](https://www.youtube.com/watch?v=NBcCFYZhU_0)
+
+
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
 
@@ -35,11 +40,6 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
 
-
-
-[Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
-
-[Video mostrando detalhadamente o que está nesse manual acima](https://www.youtube.com/watch?v=NBcCFYZhU_0)
 
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
