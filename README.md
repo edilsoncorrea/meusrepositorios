@@ -28,6 +28,8 @@
 
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
 
+[Documentações e manuais sobre a montagem do drone Lazarus](https://github.com/edilsoncorrea/dronelazarus)
+
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea)
 
 [Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
