@@ -40,6 +40,9 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
+## Escs
+[Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
+
 
 ### Concluir a documentação
 [Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
