@@ -30,6 +30,7 @@
 
 [Video mostrando detalhadamente o que está nesse manual acima](https://www.youtube.com/watch?v=NBcCFYZhU_0)
 
+[Sensor de Presença Humana - LD2410](https://github.com/edilsoncorrea/ld2410)
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
