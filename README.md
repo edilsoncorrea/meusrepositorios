@@ -10,6 +10,8 @@
 
 [Documentações sobre o Shield Ramps 1.6 Reprap com TB6600](https://wiki.opensourceecology.org/wiki/Wiring_TB6600_with_RAMPS)
 
+[Montagem da Anet A8 de 150mm x 150mm](https://github.com/edilsoncorrea/anet_a8_150x150)
+
 [Tutorial sobre como instalar o CNCJS no Raspberry](https://github.com/edilsoncorrea/cncjsraspberry)
 
 [Home Assistant Supervised Instalação no Debian Linux](https://github.com/edilsoncorrea/homeassistantsupervised)
