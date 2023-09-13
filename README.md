@@ -18,6 +18,8 @@
 
 [Tutorial sobre como instalar o Octoprint no Raspberry ou no Linux Debian](https://github.com/edilsoncorrea/octoprintraspberry)
 
+[Tutorial sobre como instalar o Octoprint na placa BTT CB1 com pi4b da Bigtreetech](https://github.com/edilsoncorrea/btt_cb1)
+
 [Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
 
 [Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
