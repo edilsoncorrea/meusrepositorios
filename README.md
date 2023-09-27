@@ -36,6 +36,8 @@
 
 [Sensor de Presença Humana - LD2410](https://github.com/edilsoncorrea/ld2410)
 
+[Projeto para un fan controlado no PI4](https://howchoo.com/g/ote2mjkzzta/control-raspberry-pi-fan-temperature-python)
+
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
 
