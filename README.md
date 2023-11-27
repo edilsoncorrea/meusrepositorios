@@ -22,11 +22,13 @@
 
 [Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
 
+[Tutorais sobre Integrações no Home Assistant](https://github.com/edilsoncorrea/homeassistant/tree/main)
+
 [Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
 
 [Dongle EDUP 650 Nano](https://github.com/morrownr/8821cu-20210118)
 
-[Vários tutoriais sobre recuros do Fusion 360](https://github.com/edilsoncorrea/fusion360tutoriais)
+[Vários tutoriais sobre recursos do Fusion 360](https://github.com/edilsoncorrea/fusion360tutoriais)
 
 [Documentação sobre a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p)
 
