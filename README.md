@@ -40,6 +40,9 @@
 
 [Projeto para un fan controlado no PI4](https://howchoo.com/g/ote2mjkzzta/control-raspberry-pi-fan-temperature-python)
 
+[Documentações diversas sobre Tasmota e integração com Home Assistant](https://github.com/edilsoncorrea/tasmota)
+
+
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
 
