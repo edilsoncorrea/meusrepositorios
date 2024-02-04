@@ -44,7 +44,7 @@
 
 [Documentação sobre TOMZ Tob9 63A com Medidor](https://github.com/edilsoncorrea/tomzn_tob9-63m)
 
-[Aubess Smart Switch 16A]([https://github.com/edilsoncorrea/aubess_smart_switch_16a/blob/main/README.md](https://github.com/edilsoncorrea/aubess_smart_switch_16a))
+[Aubess Smart Switch 16A](https://github.com/edilsoncorrea/aubess_smart_switch_16a)
 
 
 ## Drones
