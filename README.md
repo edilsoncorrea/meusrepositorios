@@ -22,6 +22,8 @@
 
 [Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
 
+[A versão Esphome do UPS81650 Lite](https://github.com/edilsoncorrea/ups18650lite_esphome)
+
 [Tutorais sobre Integrações no Home Assistant](https://github.com/edilsoncorrea/homeassistant/tree/main)
 
 [Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
