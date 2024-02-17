@@ -48,6 +48,8 @@
 
 [Aubess Smart Switch 16A](https://github.com/edilsoncorrea/aubess_smart_switch_16a)
 
+[Documentação para controlar o Argon 40 Mini Fan para Raspberry Pi 4 por PWN a partir de HACS no HAOS](https://github.com/edilsoncorrea/argon40minifan)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
