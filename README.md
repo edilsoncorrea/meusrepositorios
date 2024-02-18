@@ -40,8 +40,6 @@
 
 [Sensor de Presença Humana - LD2410](https://github.com/edilsoncorrea/ld2410)
 
-[Projeto para un fan controlado no PI4](https://howchoo.com/g/ote2mjkzzta/control-raspberry-pi-fan-temperature-python)
-
 [Documentações diversas sobre Tasmota e integração com Home Assistant](https://github.com/edilsoncorrea/tasmota)
 
 [Documentação sobre TOMZ Tob9 63A com Medidor](https://github.com/edilsoncorrea/tomzn_tob9-63m)
