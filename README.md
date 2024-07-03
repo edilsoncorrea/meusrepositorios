@@ -79,6 +79,8 @@
 
 [MKS DLC32 - Engraving Machine](https://github.com/edilsoncorrea/MKS-DLC32)
 
+[Firmware da MKS DLC32](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE)
+
 
 
 ### Fork do Marlin mvCNC-Modern-Vintage-CNC-Firmware. 
