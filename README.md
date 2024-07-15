@@ -48,6 +48,8 @@
 
 [Documentação para controlar o Argon 40 Mini Fan para Raspberry Pi 4 por PWN a partir de HACS no HAOS](https://github.com/edilsoncorrea/argon40minifan)
 
+[Montagem da Laser GRBL com a placa DLC32 e Displau TS35](https://github.com/edilsoncorrea/dlc32montagem)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
