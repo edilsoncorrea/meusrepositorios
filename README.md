@@ -60,6 +60,8 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
+[Coleção não oficial de firmwares da FrSky](https://github.com/edilsoncorrea/unofficial-collection-of-frsky-firmwares)
+
 ## Escs
 [Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
 
