@@ -60,6 +60,10 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
+### FrSky
+Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191128.zip
+
+
 [Coleção não oficial de firmwares da FrSky](https://github.com/edilsoncorrea/unofficial-collection-of-frsky-firmwares)
 
 [How to Update FrSky Receiver Firmware with your FrSky Taranis X-Lite](https://www.youtube.com/watch?v=hWEBvJOuMT0)
