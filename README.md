@@ -62,6 +62,8 @@
 
 [Coleção não oficial de firmwares da FrSky](https://github.com/edilsoncorrea/unofficial-collection-of-frsky-firmwares)
 
+[How to Update FrSky Receiver Firmware with your FrSky Taranis X-Lite](https://www.youtube.com/watch?v=hWEBvJOuMT0)
+
 ## Escs
 [Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
 
