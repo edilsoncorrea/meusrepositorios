@@ -69,6 +69,8 @@ Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191
 
 [Manual Frsky R-XSR](https://www.frsky-rc.com/wp-content/uploads/Downloads/Manual/R-XSR/R-XSR%20ACCST%20-Manual.pdf)
 
+[How to Flash Your ACCST FrSky R-XSR to work with older Radios from CycloneFPV](https://www.youtube.com/watch?v=_-LU4LUGN5A)
+
 ## Escs
 [Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
 
