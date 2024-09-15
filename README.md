@@ -58,6 +58,8 @@
 
 [Documentações e manuais sobre a montagem do drone de 3 polegadas](https://github.com/edilsoncorrea/drone3inch)
 
+[Documentações e manuais sobre a montagem do Whoop](https://github.com/edilsoncorrea/dronewhoop)
+
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
 ### FrSky
