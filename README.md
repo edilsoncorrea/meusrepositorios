@@ -62,7 +62,7 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
-##Open IPC
+## Open IPC
 [Documentação sobre Open IPC](https://github.com/edilsoncorrea/openipc)
 
 ### FrSky
