@@ -62,6 +62,9 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
+##Open IPC
+[Documentação sobre Open IPC](https://github.com/edilsoncorrea/openipc)
+
 ### FrSky
 Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191128.zip
 
