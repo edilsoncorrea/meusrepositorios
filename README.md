@@ -76,6 +76,9 @@ Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191
 
 [How to Flash Your ACCST FrSky R-XSR to work with older Radios from CycloneFPV](https://www.youtube.com/watch?v=_-LU4LUGN5A)
 
+#### X-Lite
+[Documentação sobre o rádio X-Lite](https://github.com/edilsoncorrea/frskyxlite)
+
 ## Escs
 [Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
 
