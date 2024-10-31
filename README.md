@@ -104,6 +104,8 @@ Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191
 
 [GRBL32 para ESP32 ](https://github.com/edilsoncorrea/Grbl_Esp32)
 
+[FluidNC projeto para CNC com ESP32](https://github.com/edilsoncorrea/FluidNC)
+
 
 
 ### Fork do Marlin mvCNC-Modern-Vintage-CNC-Firmware. 
