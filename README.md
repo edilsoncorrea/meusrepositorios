@@ -50,6 +50,8 @@
 
 [Montagem da Laser GRBL com a placa DLC32 e Displau TS35](https://github.com/edilsoncorrea/dlc32montagem)
 
+[FluidNC e diversos materiais](https://github.com/edilsoncorrea/fluidnc_tutorial)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
