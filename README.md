@@ -52,6 +52,8 @@
 
 [FluidNC e diversos materiais](https://github.com/edilsoncorrea/fluidnc_tutorial)
 
+[Minha CNC com FluidNC num Esp32 Devkit](https://github.com/edilsoncorrea/cnc_fludidnc)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
