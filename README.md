@@ -50,6 +50,8 @@
 
 [Montagem da Laser GRBL com a placa DLC32 e Displau TS35](https://github.com/edilsoncorrea/dlc32montagem)
 
+[Tutorial sobre ELRS](https://github.com/edilsoncorrea/elrs)
+
 [FluidNC e diversos materiais](https://github.com/edilsoncorrea/fluidnc_tutorial)
 
 [Minha CNC com FluidNC num Esp32 Devkit](https://github.com/edilsoncorrea/cnc_fludidnc)
@@ -109,8 +111,6 @@ Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191
 [GRBL32 para ESP32 ](https://github.com/edilsoncorrea/Grbl_Esp32)
 
 [FluidNC projeto para CNC com ESP32](https://github.com/edilsoncorrea/FluidNC)
-
-[Tutorial sobre ELRS](https://github.com/edilsoncorrea/elrs)
 
 [Lib ELRS CRSF para PWM](https://github.com/edilsoncorrea/esp32-elrs-crsf-to-pwm) 
 
