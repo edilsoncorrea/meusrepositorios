@@ -56,6 +56,8 @@
 
 [Minha CNC com FluidNC num Esp32 Devkit](https://github.com/edilsoncorrea/cnc_fludidnc)
 
+[2S-8S 18650 Li-ion Lipo Lithium 5-30V Lead Acid Battery Level Indicator Tester LCD Display Meter Module Capacity Voltage Meter](https://github.com/edilsoncorrea/2s_bs_lion_lipo_indicator/tree/main)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
