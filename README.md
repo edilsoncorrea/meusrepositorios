@@ -70,6 +70,8 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
+[Plugin do Octoprint para No-break com Esphome](https://github.com/edilsoncorrea/OctoPrint-UPS)
+
 ## Open IPC
 [Documentação sobre Open IPC](https://github.com/edilsoncorrea/openipc)
 
