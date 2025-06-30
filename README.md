@@ -58,6 +58,8 @@
 
 [2S-8S 18650 Li-ion Lipo Lithium 5-30V Lead Acid Battery Level Indicator Tester LCD Display Meter Module Capacity Voltage Meter](https://github.com/edilsoncorrea/2s_bs_lion_lipo_indicator/tree/main)
 
+[Plugin do Octoprint para No-break com Esphome](https://github.com/edilsoncorrea/OctoPrint-UPS)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
@@ -70,7 +72,6 @@
 
 [Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
 
-[Plugin do Octoprint para No-break com Esphome](https://github.com/edilsoncorrea/OctoPrint-UPS)
 
 ## Open IPC
 [Documentação sobre Open IPC](https://github.com/edilsoncorrea/openipc)
