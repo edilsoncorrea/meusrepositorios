@@ -60,6 +60,8 @@
 
 [Plugin do Octoprint para No-break com Esphome](https://github.com/edilsoncorrea/OctoPrint-UPS)
 
+[Dispositivios Esphome do Home Assistant](https://github.com/edilsoncorrea/haesphomedispositivos)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
