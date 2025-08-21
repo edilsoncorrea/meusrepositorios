@@ -62,6 +62,8 @@
 
 [Dispositivios Esphome do Home Assistant](https://github.com/edilsoncorrea/haesphomedispositivos)
 
+[Spacemouse DIY](https://github.com/edilsoncorrea/spacemousediy)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
