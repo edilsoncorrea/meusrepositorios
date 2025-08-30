@@ -64,6 +64,9 @@
 
 [Spacemouse DIY](https://github.com/edilsoncorrea/spacemousediy)
 
+## Spacemouse
+[CAD mouse / Spacemouse using Hall Effect Sensors](https://github.com/edilsoncorrea/he-spacemouse)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
