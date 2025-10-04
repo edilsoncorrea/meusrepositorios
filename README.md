@@ -67,6 +67,9 @@
 ## Spacemouse
 [CAD mouse / Spacemouse using Hall Effect Sensors](https://github.com/edilsoncorrea/he-spacemouse)
 
+## Joystick VR BOX
+[Projeto com Platformio Esp32 C3 e Joystick VRBOX](https://github.com/edilsoncorrea/vrbox)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
