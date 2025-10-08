@@ -50,6 +50,8 @@
 
 [Montagem da Laser GRBL com a placa DLC32 e Displau TS35](https://github.com/edilsoncorrea/dlc32montagem)
 
+[Firmware da DLC32 modificado para ter auto connect do Wifi](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE)
+
 [Tutorial sobre ELRS](https://github.com/edilsoncorrea/elrs)
 
 [FluidNC e diversos materiais](https://github.com/edilsoncorrea/fluidnc_tutorial)
