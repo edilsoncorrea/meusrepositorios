@@ -72,6 +72,9 @@
 ## Joystick VR BOX
 [Projeto com Platformio Esp32 C3 e Joystick VRBOX](https://github.com/edilsoncorrea/vrbox)
 
+## RC para Carros usando ESP32 C3 e ESPNOW
+[RC para ESP32 C3 usando ESPNOW](https://github.com/edilsoncorrea/rcesp32c3)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
