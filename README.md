@@ -134,6 +134,8 @@ Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191
 
 [Lib ELRS CRSF para PWM](https://github.com/edilsoncorrea/esp32-elrs-crsf-to-pwm) 
 
+[Projeto ELRS com hardware personalizado para ESP32 Devkit, Lora 28 e Display i2c](https://github.com/edilsoncorrea/ExpressLRS)
+
 
 
 ### Fork do Marlin mvCNC-Modern-Vintage-CNC-Firmware. 
