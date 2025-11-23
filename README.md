@@ -77,6 +77,9 @@
 
 [Transmissor simplificado para comunicar com o ExpressLRS TX](https://github.com/edilsoncorrea/ELRSTx)
 
+## Teste de bateria Lipo com display Oled i2c 0.91
+[Teste de bateria lipo](https://github.com/edilsoncorrea/lipobatterytester)
+
 
 ## Drones
 [Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
