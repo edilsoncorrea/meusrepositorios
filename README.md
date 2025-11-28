@@ -1,165 +1,242 @@
-# Lista de Todos os Meus Repositórios
+# 📚 Lista de Todos os Meus Repositórios
 
+> Uma coleção organizada de todos os meus projetos e documentações técnicas
 
-## Documentações
-[Markdown](https://www.markdownguide.org/basic-syntax/)
+---
 
-[MKS Gen L V2.1 Controladora de Impressora 3D com Atmega2560](https://github.com/edilsoncorrea/mksgenlv21)
+## 📑 Índice
 
-[Documentações sobre o Shield Ramps 1.6 Reprap e configurações gerais usando Marlin 1.1.9](https://github.com/edilsoncorrea/ramps16reprap)
+- [🏠 Home Automation](#-home-automation)
+- [🖨️ Impressão 3D](#%EF%B8%8F-impressão-3d)
+- [⚙️ CNC & Laser](#%EF%B8%8F-cnc--laser)
+- [🚁 Drones & RC](#-drones--rc)
+- [🔧 Hardware & Eletrônica](#-hardware--eletrônica)
+- [🎮 Controles & Joysticks](#-controles--joysticks)
+- [🔋 Baterias & Power](#-baterias--power)
+- [💻 Software & Tutoriais](#-software--tutoriais)
+- [🔀 Forks de Outros Projetos](#-forks-de-outros-projetos)
+- [📝 Documentações em Progresso](#-documentações-em-progresso)
+- [📖 Referências Úteis](#-referências-úteis)
+- [🚀 Projetos Pessoais](#-projetos-pessoais)
 
-[Documentações sobre o Shield Ramps 1.6 Reprap com TB6600](https://wiki.opensourceecology.org/wiki/Wiring_TB6600_with_RAMPS)
+---
 
-[Montagem da Anet A8 de 150mm x 150mm](https://github.com/edilsoncorrea/anet_a8_150x150)
+## 🏠 Home Automation
 
-[Tutorial sobre como instalar o CNCJS no Raspberry](https://github.com/edilsoncorrea/cncjsraspberry)
+Projetos e documentações relacionados ao Home Assistant e automação residencial.
 
-[Home Assistant Supervised Instalação no Debian Linux](https://github.com/edilsoncorrea/homeassistantsupervised)
+| Projeto | Descrição |
+|---------|-----------|
+| [🏡 Home Assistant Supervised](https://github.com/edilsoncorrea/homeassistantsupervised) | Instalação no Debian Linux |
+| [🔌 Integrações Home Assistant](https://github.com/edilsoncorrea/homeassistant/tree/main) | Tutoriais sobre integrações |
+| [📡 Dispositivos ESPHome](https://github.com/edilsoncorrea/haesphomedispositivos) | Dispositivos ESPHome para Home Assistant |
+| [🔋 UPS 18650 + Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant) | Módulo UPS 18650 no Raspberry com dados no HA |
+| [⚡ UPS 18650 Lite ESPHome](https://github.com/edilsoncorrea/ups18650lite_esphome) | Versão ESPHome do UPS 18650 Lite |
+| [📶 Tasmota + Home Assistant](https://github.com/edilsoncorrea/tasmota) | Documentações sobre Tasmota e integração |
+| [👁️ Sensor LD2410](https://github.com/edilsoncorrea/ld2410) | Sensor de Presença Humana |
+| [🌡️ Argon 40 Mini Fan](https://github.com/edilsoncorrea/argon40minifan) | Controle do fan para Raspberry Pi 4 via HACS |
+| [🔌 TOMZ ToB9 63A](https://github.com/edilsoncorrea/tomzn_tob9-63m) | Documentação do medidor |
+| [💡 Aubess Smart Switch 16A](https://github.com/edilsoncorrea/aubess_smart_switch_16a) | Documentação do switch inteligente |
 
-[Tutorial sobre como instalar o Octoprint no Raspberry ou no Linux Debian](https://github.com/edilsoncorrea/octoprintraspberry)
+---
 
-[Tutorial sobre como instalar o Octoprint na placa BTT CB1 com pi4b da Bigtreetech](https://github.com/edilsoncorrea/btt_cb1)
+## 🖨️ Impressão 3D
 
-[Como instalar o Módulo UPS 18650 no Raspberry e Utilizar os dados de bateria no Home Assistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant)
+Documentações sobre impressoras 3D, controladoras e configurações do Marlin.
 
-[A versão Esphome do UPS81650 Lite](https://github.com/edilsoncorrea/ups18650lite_esphome)
+| Projeto | Descrição |
+|---------|-----------|
+| [🎛️ MKS Gen L V2.1](https://github.com/edilsoncorrea/mksgenlv21) | Controladora com Atmega2560 |
+| [🔧 Ramps 1.6 Reprap](https://github.com/edilsoncorrea/ramps16reprap) | Shield Ramps 1.6 com Marlin 1.1.9 |
+| [🖨️ Anet A8 150x150](https://github.com/edilsoncorrea/anet_a8_150x150) | Montagem da Anet A8 compacta |
+| [🐙 Octoprint Raspberry](https://github.com/edilsoncorrea/octoprintraspberry) | Instalação no Raspberry ou Debian |
+| [🐙 Octoprint BTT CB1](https://github.com/edilsoncorrea/btt_cb1) | Instalação na placa BTT CB1 |
+| [🔌 Octoprint UPS Plugin](https://github.com/edilsoncorrea/OctoPrint-UPS) | Plugin para No-break com ESPHome |
 
-[Tutorais sobre Integrações no Home Assistant](https://github.com/edilsoncorrea/homeassistant/tree/main)
+---
 
-[Dongle Tplink no Raspberry Pi](https://github.com/edilsoncorrea/dongletplinkraspberry)
+## ⚙️ CNC & Laser
 
-[Dongle EDUP 650 Nano](https://github.com/morrownr/8821cu-20210118)
+Projetos relacionados a CNCs, máquinas laser e configurações FluidNC/GRBL.
 
-[Vários tutoriais sobre recursos do Fusion 360](https://github.com/edilsoncorrea/fusion360tutoriais)
+| Projeto | Descrição |
+|---------|-----------|
+| [🖥️ CNCJS Raspberry](https://github.com/edilsoncorrea/cncjsraspberry) | Tutorial de instalação do CNCJS |
+| [📐 FluidNC Tutorial](https://github.com/edilsoncorrea/fluidnc_tutorial) | FluidNC e diversos materiais |
+| [🔩 CNC FluidNC ESP32](https://github.com/edilsoncorrea/cnc_fludidnc) | Minha CNC com FluidNC no ESP32 Devkit |
+| [✨ DLC32 Montagem](https://github.com/edilsoncorrea/dlc32montagem) | Laser GRBL com DLC32 e Display TS35 |
+| [📡 DLC32 Firmware WiFi](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE) | Firmware modificado com auto connect WiFi |
 
-[Documentação sobre a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p)
+---
 
-[Manual do Fan Temperature and Speed Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md)
+## 🚁 Drones & RC
 
-[Video mostrando detalhadamente o que está nesse manual acima](https://www.youtube.com/watch?v=NBcCFYZhU_0)
+Documentações sobre montagem de drones, rádios e sistemas de controle.
 
-[Sensor de Presença Humana - LD2410](https://github.com/edilsoncorrea/ld2410)
+### Montagens de Drones
 
-[Documentações diversas sobre Tasmota e integração com Home Assistant](https://github.com/edilsoncorrea/tasmota)
+| Projeto | Descrição |
+|---------|-----------|
+| [🚁 Drone Runcam](https://github.com/edilsoncorrea/droneruncam) | Montagem do drone com Runcam |
+| [🚁 Drone Lazarus](https://github.com/edilsoncorrea/dronelazarus) | Montagem do drone Lazarus |
+| [🚁 Drone 3 polegadas](https://github.com/edilsoncorrea/drone3inch) | Montagem do drone de 3" |
+| [🚁 Whoop](https://github.com/edilsoncorrea/dronewhoop) | Montagem do Whoop |
 
-[Documentação sobre TOMZ Tob9 63A com Medidor](https://github.com/edilsoncorrea/tomzn_tob9-63m)
+### Rádios & Receptores
 
-[Aubess Smart Switch 16A](https://github.com/edilsoncorrea/aubess_smart_switch_16a)
-
-[Documentação para controlar o Argon 40 Mini Fan para Raspberry Pi 4 por PWN a partir de HACS no HAOS](https://github.com/edilsoncorrea/argon40minifan)
-
-[Montagem da Laser GRBL com a placa DLC32 e Displau TS35](https://github.com/edilsoncorrea/dlc32montagem)
-
-[Firmware da DLC32 modificado para ter auto connect do Wifi](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE)
-
-[Tutorial sobre ELRS](https://github.com/edilsoncorrea/elrs)
-
-[FluidNC e diversos materiais](https://github.com/edilsoncorrea/fluidnc_tutorial)
-
-[Minha CNC com FluidNC num Esp32 Devkit](https://github.com/edilsoncorrea/cnc_fludidnc)
-
-[2S-8S 18650 Li-ion Lipo Lithium 5-30V Lead Acid Battery Level Indicator Tester LCD Display Meter Module Capacity Voltage Meter](https://github.com/edilsoncorrea/2s_bs_lion_lipo_indicator/tree/main)
-
-[Plugin do Octoprint para No-break com Esphome](https://github.com/edilsoncorrea/OctoPrint-UPS)
-
-[Dispositivios Esphome do Home Assistant](https://github.com/edilsoncorrea/haesphomedispositivos)
-
-[Spacemouse DIY](https://github.com/edilsoncorrea/spacemousediy)
-
-## Spacemouse
-[CAD mouse / Spacemouse using Hall Effect Sensors](https://github.com/edilsoncorrea/he-spacemouse)
-
-## Joystick VR BOX
-[Projeto com Platformio Esp32 C3 e Joystick VRBOX](https://github.com/edilsoncorrea/vrbox)
-
-## RC para Carros usando ESP32 C3 e ESPNOW
-[RC para ESP32 C3 usando ESPNOW](https://github.com/edilsoncorrea/rcesp32c3)
-
-[Transmissor simplificado para comunicar com o ExpressLRS TX](https://github.com/edilsoncorrea/ELRSTx)
-
-## Teste de bateria Lipo com display Oled i2c 0.91
-[Teste de bateria lipo](https://github.com/edilsoncorrea/lipobatterytester)
-
-
-## Drones
-[Documentações e manuais sobre a montagem do drone com a Runcam](https://github.com/edilsoncorrea/droneruncam)
-
-[Documentações e manuais sobre a montagem do drone Lazarus](https://github.com/edilsoncorrea/dronelazarus)
-
-[Documentações e manuais sobre a montagem do drone de 3 polegadas](https://github.com/edilsoncorrea/drone3inch)
-
-[Documentações e manuais sobre a montagem do Whoop](https://github.com/edilsoncorrea/dronewhoop)
-
-[Diversas dicas sobre OpenTx e Taranis](https://github.com/edilsoncorrea/taranis)
-
-
-## Open IPC
-[Documentação sobre Open IPC](https://github.com/edilsoncorrea/openipc)
+| Projeto | Descrição |
+|---------|-----------|
+| [📻 OpenTx & Taranis](https://github.com/edilsoncorrea/taranis) | Dicas sobre OpenTx e Taranis |
+| [📡 Tutorial ELRS](https://github.com/edilsoncorrea/elrs) | Tutorial completo sobre ExpressLRS |
+| [📡 ELRS TX](https://github.com/edilsoncorrea/ELRSTx) | Transmissor simplificado para ELRS |
+| [📷 Open IPC](https://github.com/edilsoncorrea/openipc) | Documentação sobre Open IPC |
+| [🔧 ESCs](https://github.com/edilsoncorrea/escs) | Documentações sobre ESCs |
 
 ### FrSky
-Atualizar o R-XSR com a última versão ACCST antes do ACCESS FW-RXSR-ACCST_v191128.zip
 
-[Coleção não oficial de firmwares da FrSky](https://github.com/edilsoncorrea/unofficial-collection-of-frsky-firmwares)
+> ⚠️ Atualizar o R-XSR com a última versão ACCST antes do ACCESS: `FW-RXSR-ACCST_v191128.zip`
 
-[How to Update FrSky Receiver Firmware with your FrSky Taranis X-Lite](https://www.youtube.com/watch?v=hWEBvJOuMT0)
+| Recurso | Link |
+|---------|------|
+| 📦 Firmwares FrSky (não oficial) | [Repositório](https://github.com/edilsoncorrea/unofficial-collection-of-frsky-firmwares) |
+| 📻 X-Lite Documentação | [Repositório](https://github.com/edilsoncorrea/frskyxlite) |
+| 📄 Manual R-XSR | [PDF](https://www.frsky-rc.com/wp-content/uploads/Downloads/Manual/R-XSR/R-XSR%20ACCST%20-Manual.pdf) |
+| 🎬 Atualizar Firmware X-Lite | [YouTube](https://www.youtube.com/watch?v=hWEBvJOuMT0) |
+| 🎬 Flash ACCST R-XSR | [YouTube](https://www.youtube.com/watch?v=_-LU4LUGN5A) |
 
-[Manual Frsky R-XSR](https://www.frsky-rc.com/wp-content/uploads/Downloads/Manual/R-XSR/R-XSR%20ACCST%20-Manual.pdf)
+### RC com ESP32
 
-[How to Flash Your ACCST FrSky R-XSR to work with older Radios from CycloneFPV](https://www.youtube.com/watch?v=_-LU4LUGN5A)
+| Projeto | Descrição |
+|---------|-----------|
+| [🚗 RC ESP32 C3 ESPNOW](https://github.com/edilsoncorrea/rcesp32c3) | Controle RC usando ESPNOW |
 
-#### X-Lite
-[Documentação sobre o rádio X-Lite](https://github.com/edilsoncorrea/frskyxlite)
+---
 
-## Escs
-[Documentações sobre Escs](https://github.com/edilsoncorrea/escs)
+## 🔧 Hardware & Eletrônica
 
+Documentações sobre placas, sensores e componentes eletrônicos.
 
-### Concluir a documentação
-[Tutorial sobre configurações no Marlin - Criação inicial - Faltam concluir](https://github.com/edilsoncorrea/marlinconfiguracoes)
+| Projeto | Descrição |
+|---------|-----------|
+| [⚡ Carga Eletrônica DL24P](https://github.com/edilsoncorrea/atorch_dl24p) | Documentação completa |
+| [🌡️ Fan Temperature Controller](https://github.com/edilsoncorrea/manuais/blob/main/fan_temperature_control_speed_controller.md) | Manual do controlador |
+| [🎬 Vídeo do Manual](https://www.youtube.com/watch?v=NBcCFYZhU_0) | Explicação detalhada |
+| [📶 Dongle Tplink Raspberry](https://github.com/edilsoncorrea/dongletplinkraspberry) | Configuração do dongle |
+| [📶 Dongle EDUP 650 Nano](https://github.com/morrownr/8821cu-20210118) | Driver do dongle |
+| [🔧 Ramps 1.6 + TB6600](https://wiki.opensourceecology.org/wiki/Wiring_TB6600_with_RAMPS) | Guia de conexão |
 
-[Tutorial para configurações no Marlin para usar como CNC e Laser](https://github.com/edilsoncorrea/marlincnc)
+---
 
-[Como instalar o Raspbian no Raspberry - Repositório criado - Começar a documentar](https://github.com/edilsoncorrea/instalarraspbian)
+## 🎮 Controles & Joysticks
 
+Projetos de controles personalizados e adaptações.
 
-## Forks de Outros Projetos
-[Firmware Marlin para Impressora 3D](https://github.com/edilsoncorrea/Marlin)
+| Projeto | Descrição |
+|---------|-----------|
+| [🕹️ Spacemouse DIY](https://github.com/edilsoncorrea/spacemousediy) | Projeto Spacemouse caseiro |
+| [🕹️ Spacemouse Hall Effect](https://github.com/edilsoncorrea/he-spacemouse) | CAD mouse com sensores Hall |
+| [🎮 VR Box Joystick](https://github.com/edilsoncorrea/vrbox) | Projeto com ESP32 C3 e Joystick VRBox |
 
-[Post Processing para Fusion 360](https://github.com/edilsoncorrea/mpcnc_post_processor)
+---
 
-[Bigtreetech CB1](https://github.com/edilsoncorrea/CB1)
+## 🔋 Baterias & Power
 
-[MKS DLC32 - Engraving Machine](https://github.com/edilsoncorrea/MKS-DLC32)
+Projetos relacionados a testes e monitoramento de baterias.
 
-[Firmware da MKS DLC32](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE)
+| Projeto | Descrição |
+|---------|-----------|
+| [🔋 Teste Bateria Lipo](https://github.com/edilsoncorrea/lipobatterytester) | Teste com display OLED i2c 0.91 |
+| [📊 Indicador Li-ion/Lipo 2S-8S](https://github.com/edilsoncorrea/2s_bs_lion_lipo_indicator/tree/main) | LCD Display Meter Module 5-30V |
 
-[GRBL32 para ESP32 ](https://github.com/edilsoncorrea/Grbl_Esp32)
+---
 
-[FluidNC projeto para CNC com ESP32](https://github.com/edilsoncorrea/FluidNC)
+## 💻 Software & Tutoriais
 
-[Lib ELRS CRSF para PWM](https://github.com/edilsoncorrea/esp32-elrs-crsf-to-pwm) 
+Tutoriais de software e ferramentas de design.
 
-[Projeto ELRS com hardware personalizado para ESP32 Devkit, Lora 28 e Display i2c](https://github.com/edilsoncorrea/ExpressLRS)
+| Projeto | Descrição |
+|---------|-----------|
+| [🎨 Fusion 360 Tutoriais](https://github.com/edilsoncorrea/fusion360tutoriais) | Vários recursos do Fusion 360 |
 
+---
 
+## 🔀 Forks de Outros Projetos
 
-### Fork do Marlin mvCNC-Modern-Vintage-CNC-Firmware. 
-Não é possível realizar um Fork a partir desse, porque já tenho um Fork do Marlin.
-Fiz o fork para minha segunda conta no Github [edilsondsnerp](https://github.com/edilsondsnerp) do fork de Domush
-[Fork do Fork para que eu possa versionar minhas alterações](https://github.com/edilsondsnerp/mvCNC-Modern-Vintage-CNC-Firmware.git)
+Repositórios bifurcados de projetos da comunidade.
 
-[Fork criado a partir do Marlin para CNCs](https://github.com/topics/mvcnc)
+### Firmware & Sistema
 
-[Fork para instalar no Cncjs no Raspbian](https://github.com/edilsoncorrea/cncjs-pi-raspbian)
+| Projeto | Descrição |
+|---------|-----------|
+| [🔧 Marlin](https://github.com/edilsoncorrea/Marlin) | Firmware para Impressora 3D |
+| [⚙️ GRBL32 ESP32](https://github.com/edilsoncorrea/Grbl_Esp32) | GRBL para ESP32 |
+| [🌊 FluidNC](https://github.com/edilsoncorrea/FluidNC) | Projeto CNC com ESP32 |
+| [🖥️ CNCjs Raspbian](https://github.com/edilsoncorrea/cncjs-pi-raspbian) | CNCjs para Raspbian |
+| [🖥️ CNCjs Marlin](https://github.com/Domush/CNCjs-for-mvCNC-Marlin) | CNCjs para rodar com Marlin |
 
-[Fork do CNCjs para rodar com Marlin](https://github.com/Domush/CNCjs-for-mvCNC-Marlin)
+### Hardware & Placas
 
-[Fork do projeto de Esphome para a Carga Eletrônica DL24P](https://github.com/edilsoncorrea/esphome-atorch-dl24)
+| Projeto | Descrição |
+|---------|-----------|
+| [📦 Bigtreetech CB1](https://github.com/edilsoncorrea/CB1) | Placa BTT CB1 |
+| [✨ MKS DLC32](https://github.com/edilsoncorrea/MKS-DLC32) | Engraving Machine |
+| [📡 MKS DLC32 Firmware](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE) | Firmware da placa |
 
+### ELRS & Radio
 
-## Projetos Pessoais
+| Projeto | Descrição |
+|---------|-----------|
+| [📡 ELRS CRSF to PWM](https://github.com/edilsoncorrea/esp32-elrs-crsf-to-pwm) | Lib para conversão |
+| [📻 ExpressLRS Custom](https://github.com/edilsoncorrea/ExpressLRS) | Hardware personalizado ESP32 + LoRa |
 
+### Outros
 
+| Projeto | Descrição |
+|---------|-----------|
+| [🔧 Post Processor Fusion 360](https://github.com/edilsoncorrea/mpcnc_post_processor) | Post Processing MPCNC |
+| [⚡ ESPHome DL24P](https://github.com/edilsoncorrea/esphome-atorch-dl24) | Projeto ESPHome para carga eletrônica |
 
+### mvCNC - Fork Especial
 
+> ⚠️ **Nota:** Não é possível fazer Fork direto do mvCNC pois já existe um Fork do Marlin.  
+> Fork realizado na conta secundária [edilsondsnerp](https://github.com/edilsondsnerp)
+
+| Projeto | Descrição |
+|---------|-----------|
+| [🔧 mvCNC Firmware](https://github.com/edilsondsnerp/mvCNC-Modern-Vintage-CNC-Firmware.git) | Fork para versionamento |
+| [📚 Tópico mvCNC](https://github.com/topics/mvcnc) | Fork do Marlin para CNCs |
+
+---
+
+## 📝 Documentações em Progresso
+
+> 🚧 **Trabalho em andamento** - Repositórios que precisam ser finalizados
+
+| Projeto | Status |
+|---------|--------|
+| [⚙️ Marlin Configurações](https://github.com/edilsoncorrea/marlinconfiguracoes) | 🟡 Em progresso |
+| [🔧 Marlin CNC/Laser](https://github.com/edilsoncorrea/marlincnc) | 🟡 Em progresso |
+| [💻 Instalação Raspbian](https://github.com/edilsoncorrea/instalarraspbian) | 🔴 Não iniciado |
+
+---
+
+## 📖 Referências Úteis
+
+| Recurso | Link |
+|---------|------|
+| 📝 Guia Markdown | [markdownguide.org](https://www.markdownguide.org/basic-syntax/) |
+
+---
+
+## 🚀 Projetos Pessoais
+
+*Em breve...*
+
+---
+
+<div align="center">
+
+**📬 Entre em contato para colaborações e dúvidas!**
+
+</div>
 
