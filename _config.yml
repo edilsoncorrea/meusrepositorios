@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+# Site settings
+title: Meus Repositórios
+description: Uma coleção organizada de todos os meus projetos e documentações técnicas
+author: Edilson Correa
+
+# Theme - Using a clean, documentation-friendly theme
+theme: jekyll-theme-cayman
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+

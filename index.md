@@ -1,3 +1,8 @@
+---
+layout: default
+title: Meus Repositórios
+---
+
 # 📚 Lista de Todos os Meus Repositórios
 
 > Uma coleção organizada de todos os meus projetos e documentações técnicas
