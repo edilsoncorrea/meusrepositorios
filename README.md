@@ -67,6 +67,8 @@ Projetos relacionados a CNCs, máquinas laser e configurações FluidNC/GRBL.
 | [✨ DLC32 Montagem](https://github.com/edilsoncorrea/dlc32montagem) | Laser GRBL com DLC32 e Display TS35 |
 | [📡 DLC32 Firmware WiFi](https://github.com/edilsoncorrea/MKS-DLC32-FIRMWARE) | Firmware modificado com auto connect WiFi |
 | [📡 CNC Fluidnc MKS Tinybee](https://github.com/edilsoncorrea/mkstinybeecnc) | CNC com Fluidnc e MKS Tinybee |
+| [📡 Fork da MKS Tinybee](https://github.com/edilsoncorrea/MKS-TinyBee) | Fork da MKS Tinybee |
+
 
 ---
 
