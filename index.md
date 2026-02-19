@@ -11,6 +11,7 @@ title: Meus Repositórios
 
 ## 📑 Índice
 
+- [🌐 Repositórios Públicos](#-repositórios-públicos)
 - [🏠 Home Automation](#-home-automation)
 - [🖨️ Impressão 3D](#%EF%B8%8F-impressão-3d)
 - [⚙️ CNC & Laser](#%EF%B8%8F-cnc--laser)
@@ -23,6 +24,51 @@ title: Meus Repositórios
 - [📝 Documentações em Progresso](#-documentações-em-progresso)
 - [📖 Referências Úteis](#-referências-úteis)
 - [🚀 Projetos Pessoais](#-projetos-pessoais)
+
+---
+
+## 🌐 Repositórios Públicos
+
+Lista completa dos repositórios públicos confirmados via GitHub API (total: 36).
+
+| Repositório | Link |
+|-------------|------|
+| anet_a8_150x150 | [github.com/edilsoncorrea/anet_a8_150x150](https://github.com/edilsoncorrea/anet_a8_150x150) |
+| Arduino | [github.com/edilsoncorrea/Arduino](https://github.com/edilsoncorrea/Arduino) |
+| atorch_dl24p | [github.com/edilsoncorrea/atorch_dl24p](https://github.com/edilsoncorrea/atorch_dl24p) |
+| btt_cb1 | [github.com/edilsoncorrea/btt_cb1](https://github.com/edilsoncorrea/btt_cb1) |
+| Carregador | [github.com/edilsoncorrea/Carregador](https://github.com/edilsoncorrea/Carregador) |
+| cncjsraspberry | [github.com/edilsoncorrea/cncjsraspberry](https://github.com/edilsoncorrea/cncjsraspberry) |
+| dongletplinkraspberry | [github.com/edilsoncorrea/dongletplinkraspberry](https://github.com/edilsoncorrea/dongletplinkraspberry) |
+| drone3inch | [github.com/edilsoncorrea/drone3inch](https://github.com/edilsoncorrea/drone3inch) |
+| dronelazarus | [github.com/edilsoncorrea/dronelazarus](https://github.com/edilsoncorrea/dronelazarus) |
+| ELRSTx | [github.com/edilsoncorrea/ELRSTx](https://github.com/edilsoncorrea/ELRSTx) |
+| esp32_elrs_crsf_pwm | [github.com/edilsoncorrea/esp32_elrs_crsf_pwm](https://github.com/edilsoncorrea/esp32_elrs_crsf_pwm) |
+| gitcomandos | [github.com/edilsoncorrea/gitcomandos](https://github.com/edilsoncorrea/gitcomandos) |
+| homeassistant_components | [github.com/edilsoncorrea/homeassistant_components](https://github.com/edilsoncorrea/homeassistant_components) |
+| homeassistantsupervised | [github.com/edilsoncorrea/homeassistantsupervised](https://github.com/edilsoncorrea/homeassistantsupervised) |
+| homeassitantinstalacaodebian | [github.com/edilsoncorrea/homeassitantinstalacaodebian](https://github.com/edilsoncorrea/homeassitantinstalacaodebian) |
+| instalarraspbian | [github.com/edilsoncorrea/instalarraspbian](https://github.com/edilsoncorrea/instalarraspbian) |
+| ld2410 | [github.com/edilsoncorrea/ld2410](https://github.com/edilsoncorrea/ld2410) |
+| lipobatterytester | [github.com/edilsoncorrea/lipobatterytester](https://github.com/edilsoncorrea/lipobatterytester) |
+| manuais | [github.com/edilsoncorrea/manuais](https://github.com/edilsoncorrea/manuais) |
+| marlincnc | [github.com/edilsoncorrea/marlincnc](https://github.com/edilsoncorrea/marlincnc) |
+| marlinconfiguracoes | [github.com/edilsoncorrea/marlinconfiguracoes](https://github.com/edilsoncorrea/marlinconfiguracoes) |
+| marlinvelho | [github.com/edilsoncorrea/marlinvelho](https://github.com/edilsoncorrea/marlinvelho) |
+| meusrepositorios | [github.com/edilsoncorrea/meusrepositorios](https://github.com/edilsoncorrea/meusrepositorios) |
+| mksgenlv21 | [github.com/edilsoncorrea/mksgenlv21](https://github.com/edilsoncorrea/mksgenlv21) |
+| mkstinybeecnc | [github.com/edilsoncorrea/mkstinybeecnc](https://github.com/edilsoncorrea/mkstinybeecnc) |
+| octoprintraspberry | [github.com/edilsoncorrea/octoprintraspberry](https://github.com/edilsoncorrea/octoprintraspberry) |
+| ramps16reprap | [github.com/edilsoncorrea/ramps16reprap](https://github.com/edilsoncorrea/ramps16reprap) |
+| rcesp32c3 | [github.com/edilsoncorrea/rcesp32c3](https://github.com/edilsoncorrea/rcesp32c3) |
+| taranis | [github.com/edilsoncorrea/taranis](https://github.com/edilsoncorrea/taranis) |
+| tasmota | [github.com/edilsoncorrea/tasmota](https://github.com/edilsoncorrea/tasmota) |
+| TesteSqlite | [github.com/edilsoncorrea/TesteSqlite](https://github.com/edilsoncorrea/TesteSqlite) |
+| tomzn_tob9-63m | [github.com/edilsoncorrea/tomzn_tob9-63m](https://github.com/edilsoncorrea/tomzn_tob9-63m) |
+| upsraspberryhomeassistant | [github.com/edilsoncorrea/upsraspberryhomeassistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant) |
+| vrbox | [github.com/edilsoncorrea/vrbox](https://github.com/edilsoncorrea/vrbox) |
+| wsl_esphome | [github.com/edilsoncorrea/wsl_esphome](https://github.com/edilsoncorrea/wsl_esphome) |
+| xys3580 | [github.com/edilsoncorrea/xys3580](https://github.com/edilsoncorrea/xys3580) |
 
 ---
 
