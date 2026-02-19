@@ -6,6 +6,8 @@
 
 ## 📑 Índice
 
+- [🔐 Auditoria de Credenciais](#-auditoria-de-credenciais)
+- [🌐 Repositórios Públicos](#-repositórios-públicos)
 - [🏠 Home Automation](#-home-automation)
 - [🖨️ Impressão 3D](#%EF%B8%8F-impressão-3d)
 - [⚙️ CNC & Laser](#%EF%B8%8F-cnc--laser)
@@ -18,6 +20,88 @@
 - [📝 Documentações em Progresso](#-documentações-em-progresso)
 - [📖 Referências Úteis](#-referências-úteis)
 - [🚀 Projetos Pessoais](#-projetos-pessoais)
+
+---
+
+## 🔐 Auditoria de Credenciais
+
+> Verificação realizada em 2026-02-19 em **todos os 36 repositórios públicos da conta [@edilsoncorrea](https://github.com/edilsoncorrea)** (não apenas neste repositório `meusrepositorios`).  
+> A busca foi feita usando a API de código do GitHub com escopo `user:edilsoncorrea`, cobrindo o conteúdo de cada repositório individualmente.
+
+### ✅ Resultado: Nenhuma credencial real exposta
+
+A auditoria pesquisou em todos os repositórios da conta padrões típicos de credenciais: senhas, tokens de API, chaves privadas, tokens GitHub, credenciais de Wi-Fi, etc.
+
+| Padrão pesquisado | Resultado |
+|-------------------|-----------|
+| `password` / `senha` | ✅ Apenas exemplos de documentação (placeholders) |
+| `api_key` / `token` / `secret` | ✅ Nenhum encontrado |
+| `ssid` (redes Wi-Fi) | ✅ Apenas placeholders documentais |
+| `ghp_` / `ghs_` (tokens GitHub) | ✅ Nenhum encontrado |
+| Chaves privadas RSA/SSH | ✅ Nenhuma encontrada |
+| Credenciais em código-fonte C/C++ | ✅ Nenhuma real encontrada |
+
+### 📋 Detalhes por repositório com ocorrências
+
+| Repositório | Ocorrência | Avaliação |
+|-------------|------------|-----------|
+| [mkstinybeecnc](https://github.com/edilsoncorrea/mkstinybeecnc) | `$WiFi/Password=MinhaSenha`, `12345678` (senha padrão do AP FluidNC) | ⚠️ Apenas documentação — valores de exemplo/placeholder, **sem credencial real** |
+| [btt_cb1](https://github.com/edilsoncorrea/btt_cb1) | Credenciais padrão de fábrica do BTT CB1: `user: biqu` / `senha: biqu` | ⚠️ Credenciais padrão **públicas do fabricante**, documentadas intencionalmente |
+| [octoprintraspberry](https://github.com/edilsoncorrea/octoprintraspberry) | Referência a `ssid` em contexto de tutorial | ⚠️ Apenas documentação — **sem credencial real** |
+| [rcesp32c3](https://github.com/edilsoncorrea/rcesp32c3) | Usa ESP-NOW (sem Wi-Fi credentials), `DEVICE_PAIR_ID 0x12345678` como exemplo | ✅ Sem credenciais — valor de exemplo explícito |
+| [ELRSTx](https://github.com/edilsoncorrea/ELRSTx) | Projeto CRSF/ExpressLRS — sem acesso a rede | ✅ Sem credenciais |
+| [vrbox](https://github.com/edilsoncorrea/vrbox) | Projeto BLE — sem credenciais de rede | ✅ Sem credenciais |
+
+### 🔒 Recomendações
+
+- Os repositórios de firmware (rcesp32c3, ELRSTx, vrbox) usam protocolos sem Wi-Fi (ESP-NOW, BLE, CRSF), o que elimina o risco de credenciais de rede.
+- Os repositórios de documentação usam apenas valores de exemplo (`MinhaSenha`, `SuaRede`), nunca credenciais reais.
+- Continuar usando variáveis de ambiente ou arquivos `.env` (já no `.gitignore`) para projetos futuros que necessitem de credenciais reais.
+
+---
+
+## 🌐 Repositórios Públicos
+
+Lista completa dos repositórios públicos confirmados via GitHub API (total: 36).
+
+| Repositório | Link |
+|-------------|------|
+| anet_a8_150x150 | [github.com/edilsoncorrea/anet_a8_150x150](https://github.com/edilsoncorrea/anet_a8_150x150) |
+| Arduino | [github.com/edilsoncorrea/Arduino](https://github.com/edilsoncorrea/Arduino) |
+| atorch_dl24p | [github.com/edilsoncorrea/atorch_dl24p](https://github.com/edilsoncorrea/atorch_dl24p) |
+| btt_cb1 | [github.com/edilsoncorrea/btt_cb1](https://github.com/edilsoncorrea/btt_cb1) |
+| Carregador | [github.com/edilsoncorrea/Carregador](https://github.com/edilsoncorrea/Carregador) |
+| cncjsraspberry | [github.com/edilsoncorrea/cncjsraspberry](https://github.com/edilsoncorrea/cncjsraspberry) |
+| dongletplinkraspberry | [github.com/edilsoncorrea/dongletplinkraspberry](https://github.com/edilsoncorrea/dongletplinkraspberry) |
+| drone3inch | [github.com/edilsoncorrea/drone3inch](https://github.com/edilsoncorrea/drone3inch) |
+| dronelazarus | [github.com/edilsoncorrea/dronelazarus](https://github.com/edilsoncorrea/dronelazarus) |
+| ELRSTx | [github.com/edilsoncorrea/ELRSTx](https://github.com/edilsoncorrea/ELRSTx) |
+| esp32_elrs_crsf_pwm | [github.com/edilsoncorrea/esp32_elrs_crsf_pwm](https://github.com/edilsoncorrea/esp32_elrs_crsf_pwm) |
+| gitcomandos | [github.com/edilsoncorrea/gitcomandos](https://github.com/edilsoncorrea/gitcomandos) |
+| homeassistant_components | [github.com/edilsoncorrea/homeassistant_components](https://github.com/edilsoncorrea/homeassistant_components) |
+| homeassistantsupervised | [github.com/edilsoncorrea/homeassistantsupervised](https://github.com/edilsoncorrea/homeassistantsupervised) |
+| homeassitantinstalacaodebian | [github.com/edilsoncorrea/homeassitantinstalacaodebian](https://github.com/edilsoncorrea/homeassitantinstalacaodebian) |
+| instalarraspbian | [github.com/edilsoncorrea/instalarraspbian](https://github.com/edilsoncorrea/instalarraspbian) |
+| ld2410 | [github.com/edilsoncorrea/ld2410](https://github.com/edilsoncorrea/ld2410) |
+| lipobatterytester | [github.com/edilsoncorrea/lipobatterytester](https://github.com/edilsoncorrea/lipobatterytester) |
+| manuais | [github.com/edilsoncorrea/manuais](https://github.com/edilsoncorrea/manuais) |
+| marlincnc | [github.com/edilsoncorrea/marlincnc](https://github.com/edilsoncorrea/marlincnc) |
+| marlinconfiguracoes | [github.com/edilsoncorrea/marlinconfiguracoes](https://github.com/edilsoncorrea/marlinconfiguracoes) |
+| marlinvelho | [github.com/edilsoncorrea/marlinvelho](https://github.com/edilsoncorrea/marlinvelho) |
+| meusrepositorios | [github.com/edilsoncorrea/meusrepositorios](https://github.com/edilsoncorrea/meusrepositorios) |
+| mksgenlv21 | [github.com/edilsoncorrea/mksgenlv21](https://github.com/edilsoncorrea/mksgenlv21) |
+| mkstinybeecnc | [github.com/edilsoncorrea/mkstinybeecnc](https://github.com/edilsoncorrea/mkstinybeecnc) |
+| octoprintraspberry | [github.com/edilsoncorrea/octoprintraspberry](https://github.com/edilsoncorrea/octoprintraspberry) |
+| ramps16reprap | [github.com/edilsoncorrea/ramps16reprap](https://github.com/edilsoncorrea/ramps16reprap) |
+| rcesp32c3 | [github.com/edilsoncorrea/rcesp32c3](https://github.com/edilsoncorrea/rcesp32c3) |
+| taranis | [github.com/edilsoncorrea/taranis](https://github.com/edilsoncorrea/taranis) |
+| tasmota | [github.com/edilsoncorrea/tasmota](https://github.com/edilsoncorrea/tasmota) |
+| TesteSqlite | [github.com/edilsoncorrea/TesteSqlite](https://github.com/edilsoncorrea/TesteSqlite) |
+| tomzn_tob9-63m | [github.com/edilsoncorrea/tomzn_tob9-63m](https://github.com/edilsoncorrea/tomzn_tob9-63m) |
+| upsraspberryhomeassistant | [github.com/edilsoncorrea/upsraspberryhomeassistant](https://github.com/edilsoncorrea/upsraspberryhomeassistant) |
+| vrbox | [github.com/edilsoncorrea/vrbox](https://github.com/edilsoncorrea/vrbox) |
+| wsl_esphome | [github.com/edilsoncorrea/wsl_esphome](https://github.com/edilsoncorrea/wsl_esphome) |
+| xys3580 | [github.com/edilsoncorrea/xys3580](https://github.com/edilsoncorrea/xys3580) |
 
 ---
 
