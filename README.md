@@ -6,6 +6,7 @@
 
 ## 📑 Índice
 
+- [🔐 Auditoria de Credenciais](#-auditoria-de-credenciais)
 - [🌐 Repositórios Públicos](#-repositórios-públicos)
 - [🏠 Home Automation](#-home-automation)
 - [🖨️ Impressão 3D](#%EF%B8%8F-impressão-3d)
@@ -19,6 +20,42 @@
 - [📝 Documentações em Progresso](#-documentações-em-progresso)
 - [📖 Referências Úteis](#-referências-úteis)
 - [🚀 Projetos Pessoais](#-projetos-pessoais)
+
+---
+
+## 🔐 Auditoria de Credenciais
+
+> Verificação realizada em 2026-02-19 em todos os 36 repositórios públicos.
+
+### ✅ Resultado: Nenhuma credencial real exposta
+
+A auditoria pesquisou nos fontes dos repositórios padrões típicos de credenciais: senhas, tokens de API, chaves privadas, tokens GitHub, credenciais de Wi-Fi, etc.
+
+| Padrão pesquisado | Resultado |
+|-------------------|-----------|
+| `password` / `senha` | ✅ Apenas exemplos de documentação (placeholders) |
+| `api_key` / `token` / `secret` | ✅ Nenhum encontrado |
+| `ssid` (redes Wi-Fi) | ✅ Apenas placeholders documentais |
+| `ghp_` / `ghs_` (tokens GitHub) | ✅ Nenhum encontrado |
+| Chaves privadas RSA/SSH | ✅ Nenhuma encontrada |
+| Credenciais em código-fonte C/C++ | ✅ Nenhuma real encontrada |
+
+### 📋 Detalhes por repositório com ocorrências
+
+| Repositório | Ocorrência | Avaliação |
+|-------------|------------|-----------|
+| [mkstinybeecnc](https://github.com/edilsoncorrea/mkstinybeecnc) | `$WiFi/Password=MinhaSenha`, `12345678` (senha padrão do AP FluidNC) | ⚠️ Apenas documentação — valores de exemplo/placeholder, **sem credencial real** |
+| [btt_cb1](https://github.com/edilsoncorrea/btt_cb1) | Credenciais padrão de fábrica do BTT CB1: `user: biqu` / `senha: biqu` | ⚠️ Credenciais padrão **públicas do fabricante**, documentadas intencionalmente |
+| [octoprintraspberry](https://github.com/edilsoncorrea/octoprintraspberry) | Referência a `ssid` em contexto de tutorial | ⚠️ Apenas documentação — **sem credencial real** |
+| [rcesp32c3](https://github.com/edilsoncorrea/rcesp32c3) | Usa ESP-NOW (sem Wi-Fi credentials), `DEVICE_PAIR_ID 0x12345678` como exemplo | ✅ Sem credenciais — valor de exemplo explícito |
+| [ELRSTx](https://github.com/edilsoncorrea/ELRSTx) | Projeto CRSF/ExpressLRS — sem acesso a rede | ✅ Sem credenciais |
+| [vrbox](https://github.com/edilsoncorrea/vrbox) | Projeto BLE — sem credenciais de rede | ✅ Sem credenciais |
+
+### 🔒 Recomendações
+
+- Os repositórios de firmware (rcesp32c3, ELRSTx, vrbox) usam protocolos sem Wi-Fi (ESP-NOW, BLE, CRSF), o que elimina o risco de credenciais de rede.
+- Os repositórios de documentação usam apenas valores de exemplo (`MinhaSenha`, `SuaRede`), nunca credenciais reais.
+- Continuar usando variáveis de ambiente ou arquivos `.env` (já no `.gitignore`) para projetos futuros que necessitem de credenciais reais.
 
 ---
 
