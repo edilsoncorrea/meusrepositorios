@@ -30,11 +30,12 @@ title: Meus Repositórios
 
 ## 🔐 Auditoria de Credenciais
 
-> Verificação realizada em 2026-02-19 em todos os 36 repositórios públicos.
+> Verificação realizada em 2026-02-19 em **todos os 36 repositórios públicos da conta [@edilsoncorrea](https://github.com/edilsoncorrea)** (não apenas neste repositório `meusrepositorios`).  
+> A busca foi feita usando a API de código do GitHub com escopo `user:edilsoncorrea`, cobrindo o conteúdo de cada repositório individualmente.
 
 ### ✅ Resultado: Nenhuma credencial real exposta
 
-A auditoria pesquisou nos fontes dos repositórios padrões típicos de credenciais: senhas, tokens de API, chaves privadas, tokens GitHub, credenciais de Wi-Fi, etc.
+A auditoria pesquisou em todos os repositórios da conta padrões típicos de credenciais: senhas, tokens de API, chaves privadas, tokens GitHub, credenciais de Wi-Fi, etc.
 
 | Padrão pesquisado | Resultado |
 |-------------------|-----------|
