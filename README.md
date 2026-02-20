@@ -18,6 +18,7 @@
 - [📝 Documentações em Progresso](#-documentações-em-progresso)
 - [📖 Referências Úteis](#-referências-úteis)
 - [🚀 Projetos Pessoais](#-projetos-pessoais)
+- [⚙️ Dicas de Configuração do GitHub](#%EF%B8%8F-dicas-de-configuração-do-github)
 
 ---
 
@@ -234,6 +235,22 @@ Repositórios bifurcados de projetos da comunidade.
 ## 🚀 Projetos Pessoais
 
 *Em breve...*
+
+---
+
+## ⚙️ Dicas de Configuração do GitHub
+
+### Privacidade padrão de repositórios
+
+Por padrão, o GitHub cria novos repositórios como **públicos**. Para alterar isso e criar repositórios como **privados** por padrão:
+
+1. Acesse **Settings** (Configurações) da sua conta no GitHub
+2. No menu lateral, clique em **Repositories** (Repositórios)
+3. Localize a opção **Repository default visibility**
+4. Selecione **Private** (Privado)
+5. Clique em **Update preferences** para salvar
+
+> **Nota:** Esta configuração se aplica apenas a repositórios criados diretamente pela sua conta pessoal. Forks e repositórios criados em organizações seguem suas próprias regras de visibilidade.
 
 ---
 
