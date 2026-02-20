@@ -16,6 +16,7 @@
 - [💻 Software & Tutoriais](#-software--tutoriais)
 - [🔀 Forks de Outros Projetos](#-forks-de-outros-projetos)
 - [📝 Documentações em Progresso](#-documentações-em-progresso)
+- [⚙️ Dicas de Configuração do GitHub](#%EF%B8%8F-dicas-de-configuração-do-github)
 - [📖 Referências Úteis](#-referências-úteis)
 - [🚀 Projetos Pessoais](#-projetos-pessoais)
 
@@ -223,11 +224,28 @@ Repositórios bifurcados de projetos da comunidade.
 
 ---
 
+## ⚙️ Dicas de Configuração do GitHub
+
+### 🔒 Como tornar repositórios privados por padrão
+
+Sim! É possível configurar sua conta do GitHub para que todo novo repositório criado seja **privado por padrão**. Siga os passos abaixo:
+
+1. Acesse **[GitHub Settings → Repositories](https://github.com/settings/repositories)**
+2. Localize a opção **"Repository default visibility"**
+3. Altere para **"Private"**
+
+A partir dessa configuração, sempre que você criar um novo repositório, a opção de visibilidade já virá marcada como **Privado** — você ainda poderá alterá-la manualmente para público durante a criação, se desejar.
+
+> 💡 **Dica:** Essa configuração afeta apenas repositórios criados por você diretamente. Forks e repositórios criados por organizações seguem as regras de visibilidade de cada organização.
+
+---
+
 ## 📖 Referências Úteis
 
 | Recurso | Link |
 |---------|------|
 | 📝 Guia Markdown | [markdownguide.org](https://www.markdownguide.org/basic-syntax/) |
+| ⚙️ Configurações de Repositório GitHub | [github.com/settings/repositories](https://github.com/settings/repositories) |
 
 ---
 
